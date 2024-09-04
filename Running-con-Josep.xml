@@ -9,12 +9,36 @@
     <lastBuildDate>Mon, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Episodio 1: Introducción al running</title>
-      <description>En este primer episodio, hablamos sobre los fundamentos del running y cómo empezar a entrenar.</description>
+      <title>Episodio 1: Introducci?n al running</title>
+      <description>En este primer episodio, hablamos sobre los fundamentos del running y c?mo empezar a entrenar.</description>
       <link>http://www.tusitio.com/podcast/episodio1</link>
       <guid>http://www.tusitio.com/podcast/episodio1</guid>
       <pubDate>Mon, 01 Sep 2024 08:00:00 +0000</pubDate>
       <enclosure url="http://www.tusitio.com/audio/episodio1.mp3" length="12345678" type="audio/mpeg"/>
     </item>
   </channel>
+      <item>
+        <title>04- El Perro Verde.mp3</title>
+        <link>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</link>
+        <guid>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</guid>
+        <pubDate>Wed, 04 Sep 2024 16:30:59 GMT</pubDate>
+        <enclosure url="https://drive.google.com/uc?export=download&id=1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux" length="9839497" type="audio/mpeg"/>
+      </item>
+    </channel>
+      <item>
+        <title>04- El Perro Verde.mp3</title>
+        <link>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</link>
+        <guid>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</guid>
+        <pubDate>Wed, 04 Sep 2024 16:34:47 GMT</pubDate>
+        <enclosure url="https://drive.google.com/uc?export=download&id=1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux" length="9839497" type="audio/mpeg"/>
+      </item>
+    </channel>
+      <item>
+        <title>04- El Perro Verde.mp3</title>
+        <link>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</link>
+        <guid>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</guid>
+        <pubDate>Wed, 04 Sep 2024 16:36:37 GMT</pubDate>
+        <enclosure url="https://drive.google.com/uc?export=download&id=1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux" length="9839497" type="audio/mpeg"/>
+      </item>
+    </channel>
 </rss>
