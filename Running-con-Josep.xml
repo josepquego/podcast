@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Running con Josep</title>
+    <link>https://www.tusitio.com</link>
+    <description>Podcast sobre running con Josep</description>
+    <language>es</language>
+    <pubDate>Mon, 01 Sep 2024 08:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title>Episodio 1: Introducción al running</title>
+      <description>En este primer episodio, hablamos sobre los fundamentos del running y cómo empezar a entrenar.</description>
+      <link>http://www.tusitio.com/podcast/episodio1</link>
+      <guid>http://www.tusitio.com/podcast/episodio1</guid>
+      <pubDate>Mon, 01 Sep 2024 08:00:00 +0000</pubDate>
+      <enclosure url="http://www.tusitio.com/audio/episodio1.mp3" length="12345678" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
