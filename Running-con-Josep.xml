@@ -1,22 +1,21 @@
-
-  <?xml version="1.0" encoding="UTF-8" ?>
-  <rss version="2.0">
-    <channel>
-      <title>Running con Josep</title>
-      <link>https://www.tusitio.com</link>
-      <description>Podcast sobre running con Josep</description>
-      <language>es</language>
-      <pubDate>Mon, 01 Sep 2024 08:00:00 +0000</pubDate>
-      <lastBuildDate>Mon, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
-      <ttl>60</ttl>
-      
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Running con Josep</title>
+    <link>https://www.tusitio.com</link>
+    <description>Podcast sobre running con Josep</description>
+    <language>es</language>
+    <pubDate>Mon, 01 Sep 2024 08:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2024 08:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    
       <item>
         <title>04- El Perro Verde.mp3</title>
         <link>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</link>
         <guid>https://drive.google.com/file/d/1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux/view?usp=drivesdk</guid>
-        <pubDate>Wed, 04 Sep 2024 17:10:24 GMT</pubDate>
+        <pubDate>Wed, 04 Sep 2024 17:12:36 GMT</pubDate>
         <enclosure url="https://drive.google.com/uc?export=download&id=1NBeBPSqroKI4TdOTSRYUNm-ahGMQEiux" length="9839497" type="audio/mpeg"/>
       </item>
     
-    </channel>
-  </rss>
+  </channel>
+</rss>
