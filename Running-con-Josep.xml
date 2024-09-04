@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
+  <title>Running con Josep</title>
+  <link>https://www.tusitio.com</link>
+  <description>Podcast sobre running con Josep</description>
+  <image>
+    <url>https://josepquego.github.io/podcast/img/portada.jpg</url>
     <title>Running con Josep</title>
     <link>https://www.tusitio.com</link>
-    <description>Podcast sobre running con Josep</description>
-    <language>es</language>
-    <pubDate>Wed, 04 Sep 2024 18:55:31 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Sep 2024 18:55:31 GMT</lastBuildDate>
-    <ttl>60</ttl>
-    
+  </image>
+  <language>es</language>
+  <pubDate>Wed, 04 Sep 2024 19:15:39 GMT</pubDate>
+  <lastBuildDate>Wed, 04 Sep 2024 19:15:39 GMT</lastBuildDate>
+  <ttl>60</ttl>
+  
           <item>
             <title>04- El Perro Verde.mp3</title>
             <link>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</link>
             <guid>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</guid>
-            <pubDate>Wed, 04 Sep 2024 18:55:31 GMT</pubDate>
+            <pubDate>Wed, 04 Sep 2024 19:15:39 GMT</pubDate>
             <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3" length="9839497" type="audio/mpeg" duration="04:03"/>
           </item>
-  </channel>
+</channel>
 </rss>
