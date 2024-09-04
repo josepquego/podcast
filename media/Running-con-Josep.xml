@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Running con Josep</title>
+    <link>https://www.tusitio.com</link>
+    <description>Podcast sobre running con Josep</description>
+    <language>es</language>
+    <pubDate>Wed, 04 Sep 2024 23:06:33 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Sep 2024 23:06:33 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <itunes:image href="https://josepquego.github.io/podcast/img/portada.jpg" />
+    <image>
+      <url>https://josepquego.github.io/podcast/img/portada.jpg</url>
+      <title>Running con Josep</title>
+      <link>https://www.tusitio.com</link>
+    </image>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Podcast sobre running con Josep</itunes:summary>
+    
+          <item>
+            <title>10- Marea.mp3</title>
+            <link>https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3</link>
+            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3</guid>
+            <pubDate>Wed, 04 Sep 2024 23:06:16 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3" length="5671074" type="audio/mpeg" />
+            <itunes:duration>00:05:30</itunes:duration>
+          </item>
+          <item>
+            <title>04- El Perro Verde.mp3</title>
+            <link>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</link>
+            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</guid>
+            <pubDate>Wed, 04 Sep 2024 23:06:33 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3" length="9839497" type="audio/mpeg" />
+            <itunes:duration>00:04:03</itunes:duration>
+          </item>
+  </channel>
+</rss>
