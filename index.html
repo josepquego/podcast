@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Actualizar Feed RSS</title>
+</head>
+<body>
+  <button id="runScript">Actualizar Feed RSS</button>
+  <script>
+    document.getElementById('runScript').addEventListener('click', function() {
+      fetch('https://script.google.com/macros/s/AKfycbyJd-f5BlC9ihpZAoGfL8Al2bNYvwBNaWqWznTPu67b5LS9ERrHGWMvKc1-8qRxsduIhA/exec', {
+        method: 'GET'
+      })
+      .then(response => response.text())
+      .then(data => alert('Script ejecutado'))
+      .catch(error => console.error('Error:', error));
+    });
+  </script>
+</body>
+</html>
