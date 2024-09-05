@@ -5,8 +5,8 @@
     <link>https://www.tusitio.com</link>
     <description>Podcast sobre running con Josep</description>
     <language>es</language>
-    <pubDate>Wed, 04 Sep 2024 23:10:13 GMT</pubDate>
-    <lastBuildDate>Wed, 04 Sep 2024 23:10:13 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2024 00:09:41 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2024 00:09:41 GMT</lastBuildDate>
     <ttl>60</ttl>
     <itunes:image href="https://josepquego.github.io/podcast/img/portada.jpg" />
     <image>
@@ -19,18 +19,18 @@
     
           <item>
             <title>10- Marea.mp3</title>
-            <link>https://raw.githubusercontent.com/josepquego/podcast/main/10-%20Marea.mp3</link>
-            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/10-%20Marea.mp3</guid>
-            <pubDate>Wed, 04 Sep 2024 23:09:53 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/10-%20Marea.mp3" length="5671074" type="audio/mpeg" />
+            <link>https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3</link>
+            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3</guid>
+            <pubDate>Thu, 05 Sep 2024 00:09:19 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/media/10-%20Marea.mp3" length="5671074" type="audio/mpeg" />
             <itunes:duration>00:05:30</itunes:duration>
           </item>
           <item>
             <title>04- El Perro Verde.mp3</title>
-            <link>https://raw.githubusercontent.com/josepquego/podcast/main/04-%20El%20Perro%20Verde.mp3</link>
-            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/04-%20El%20Perro%20Verde.mp3</guid>
-            <pubDate>Wed, 04 Sep 2024 23:10:13 GMT</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/04-%20El%20Perro%20Verde.mp3" length="9839497" type="audio/mpeg" />
+            <link>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</link>
+            <guid>https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3</guid>
+            <pubDate>Thu, 05 Sep 2024 00:09:41 GMT</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/josepquego/podcast/main/media/04-%20El%20Perro%20Verde.mp3" length="9839497" type="audio/mpeg" />
             <itunes:duration>00:04:03</itunes:duration>
           </item>
   </channel>
