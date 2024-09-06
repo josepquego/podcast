@@ -1,8 +1,59 @@
 {
-  "04- El Perro Verde.mp3": {
-    "duration": "00:04:03"
+  "01 - Beautiful Things.mp3": {
+    "duration": "00:03:13"
   },
-  "10- Marea.mp3": {
-    "duration": "00:05:30"
+  "02 - Chlorine.mp3": {
+    "duration": "00:05:24"
+  },
+  "03 - Eres para Mí.mp3": {
+    "duration": "00:03:17"
+  },
+  "04 - Reptilia.mp3": {
+    "duration": "00:03:36"
+  },
+  "05 - Uprising.mp3": {
+    "duration": "00:04:11"
+  },
+  "06 - As It Was.mp3": {
+    "duration": "00:02:45"
+  },
+  "07 - Fuego.mp3": {
+    "duration": "00:04:47"
+  },
+  "08 - Ride.mp3": {
+    "duration": "00:03:46"
+  },
+  "09 - Paint It Black.mp3": {
+    "duration": "00:03:47"
+  },
+  "10 - Fantasmas.mp3": {
+    "duration": "00:03:38"
+  },
+  "11 - Basket Case.mp3": {
+    "duration": "00:03:15"
+  },
+  "12 - Miss You.mp3": {
+    "duration": "00:02:50"
+  },
+  "13 - En la Ciudad de la Furia.mp3": {
+    "duration": "00:06:17"
+  },
+  "14 - Rakata.mp3": {
+    "duration": "00:02:52"
+  },
+  "15 - La Morocha.mp3": {
+    "duration": "00:02:21"
+  },
+  "16 - Gasolina.mp3": {
+    "duration": "00:03:16"
+  },
+  "17 - Zitti e Buoni.mp3": {
+    "duration": "00:03:19"
+  },
+  "18 - Ruby.mp3": {
+    "duration": "00:03:30"
+  },
+  "19 - Believer.mp3": {
+    "duration": "00:03:37"
   }
-}
+}}
